@@ -1,2 +1,2 @@
 FROM Ubuntu
-RUN echo "This is a sample text file" > /app/sample.txt
+RUN echo "This is a sample text file" > /home/sample.txt
