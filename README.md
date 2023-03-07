@@ -5,4 +5,4 @@ Cloning the git repo
 Making changes to commit and push to github
 
 ## Second change
-adding some more lines from VS code
+adding some more lines from VS code and installed ubuntu
